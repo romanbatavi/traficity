@@ -73,12 +73,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	$result->execute();
 	for($i=0; $row = $result->fetch(); $i++){
 ?>
-									<p>&copy;2018 <?php echo $row['site_name']; ?> | Design by 
-										<a href="http://www.lykup.com/Torrahclef" target="_blank">Awolu Faith</a>
-									</p>
 	<?php } ?>
-								</div>
-							</body>
+			</div>
+		</body>
 						
 <!-- Mirrored from p.w3layouts.com/demos_new/template_demo/10-02-2018/donuts_login_form-demo_Free/1224104968/web/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 May 2018 02:38:35 GMT -->
 </html>

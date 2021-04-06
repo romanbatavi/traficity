@@ -65,7 +65,7 @@ if(!isset($_SESSION['SESS_FIRST_NAME'])){
 
     	<div class="sidebar-wrapper">
             <div class="logo">
-                <a href="http://www.lykup.com" class="simple-text">
+                <a href="#" class="simple-text">
                     <?php echo $row['site_name']; ?>
                 </a>
             </div>

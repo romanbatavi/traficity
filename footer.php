@@ -1,12 +1,3 @@
-   <footer class="footer">
-            <div class="container-fluid">
-                
-                <p class="copyright pull-right">
-                    &copy; <script>document.write(new Date().getFullYear())</script> <a href="http://www.lykup.com">Hillsofts</a>, made with love for a better web
-                </p>
-            </div>
-        </footer>
-
     </div>
 </div>
 
@@ -39,7 +30,7 @@
 
         	$.notify({
             	icon: 'pe-7s-gift',
-            	message: "Welcome to <b>Hillsofts</b> Traffic Offence System."
+            	message: "Welcome to <b>Traficity</b> Traffic Offence System."
 
             },{
                 type: 'info',
